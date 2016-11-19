@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Microsoft.ProjectOxford.Video</id>
+    <version>1.1.0</version>
+    <title>Microsoft.ProjectOxford.Video</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
+    <projectUrl>https://www.microsoft.com/cognitive-services/en-us/video-api</projectUrl>
+    <iconUrl>https://portalstoragewuprod.azureedge.net/media/Default/Media/Video API/Icons_Vision_Video.svg</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Microsoft Cognitive Services Video Client Library</description>
+    <releaseNotes>Supports parameters of Motion Detection v2</releaseNotes>
+    <copyright>Copyright (c) 2016</copyright>
+    <tags>Microsoft Project Oxford Video Cognitive Services</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="8.0.2" />
+      <dependency id="Microsoft.Net.Http" version="2.2.29" />
+      <dependency id="Microsoft.ProjectOxford.Common" version="1.0.308" />
+    </dependencies>
+  </metadata>
+</package>
